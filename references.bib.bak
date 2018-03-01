@@ -23,6 +23,14 @@
   timestamp = {2016.10.04}
 }
 
+@InProceedings{Abesser:2017:AES,
+  author =    {Jakob Abe{\ss}er and Stefan Balke and Klaus Frieler and Martin Pfleiderer and Meinard M{\"{u}}ller},
+  title =     {Deep Learning for Jazz Walking Bass Transcription},
+  booktitle = {Proceedings of the AES International Conference on Semantic Audio},
+  year =      {2017},
+  address =   {Erlangen, Germany}
+}
+
 @InProceedings{Abesser:2010:ISMIR,
   Title                    = {{Bass Playing Style Detection Based on High-level Features and Pattern Similarity}},
   Author                   = {Abe{\ss}er, Jakob and Br{\"a}uer, Paul and Lukashevich, Hanna and Schuller, Gerald},
