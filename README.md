@@ -1,21 +1,4 @@
-# CV & Publications
-
-## Reviewer
-
-### Journals
-
-* Journal of the Audio Engineering Society
-* Applied Sciences
-*
-
-### Conferences
-
-* ICASSP
-* ISMIR
-* Audio Mostly
-* WASPAA
-
-## Scientific Publications
+# Scientific Publications
 
 Abeßer, J.; Götze, M.; Clauß, T.; Zapf, D.; Kühn, C.; Lukashevich, H.; Kühnlenz, S. & Mimilakis, S. I. (2019), Urban Noise Monitoring in the Stadtlärm Project - A Field Report, in 'Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop'.
 
