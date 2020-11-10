@@ -23,6 +23,17 @@
   timestamp = {2016.10.04}
 }
 
+@Article{Abesser:2020:AS,
+  author =    {Jakob Abe{\ss}er},
+  title =     {A Review of Deep Learning Based Methods for Acoustic Scene Classification},
+  journal =   {applied sciences},
+  year =      {2020},
+  volume =    {10},
+  number =    {6},
+  doi =       {https://doi.org/10.3390/app10062020},
+  timestamp = {2020.03.27}
+}
+
 @InProceedings{Abesser:2017:AES,
   author =    {Jakob Abe{\ss}er and Stefan Balke and Klaus Frieler and Martin Pfleiderer and Meinard M{\"{u}}ller},
   title =     {Deep Learning for Jazz Walking Bass Transcription},
@@ -134,6 +145,16 @@
   Keywords                 = {computational musicology,improvisation,jazz,pattern mining}
 }
 
+@InProceedings{Abesser:2019:DCASE,
+  author =    {Jakob Abe{\ss}er and Marco G{\"o}tze and Tobias Clau{\ss} and Dominik Zapf and Christian K{\"u}hn and Hanna Lukashevich and Stephanie K{\"u}hnlenz and Stylianos Ioannis Mimilakis},
+  title =     {Urban Noise Monitoring in the Stadtl{\"a}rm Project - A Field Report},
+  booktitle = {Proceedings of the Detection and Classification of Acoustic Scenes and Events (DCASE) Workshop},
+  year =      {2019},
+  address =   {New York, NY, USA},
+  owner =     {jakobabeer},
+  timestamp = {2019.07.30}
+}
+
 @InProceedings{Abesser:2018:IEEE_FICLOUD,
   author =    {Jakob Abe{\ss}er and Robert Gr{\"a}fe and Christian K{\"u}hn and Tobias Clau{\ss} and Hanna Lukashevich and Marco G{\"o}tze and Stephanie K{\"u}hnlenz},
   title =     {A Distributed Sensor Network for Monitoring Noise Level and Noise Sources in Urban Environments},
@@ -152,6 +173,15 @@
   Address                  = {Marseilles, France},
 
   Keywords                 = {automatic music performance assessment,group testing,intonation,melody transcrip-,tion,transcription-based audio features}
+}
+
+@Article{Abesser:2019:ERCIM,
+  author =    {Jakob Abe{\ss}er and Sara Kepplinger},
+  title =     {Smart Solutions to Cope with Urban Noise Pollution},
+  journal =   {ERCIM},
+  year =      {2019},
+  owner =     {jakobabeer},
+  timestamp = {2019.09.24}
 }
 
 @InProceedings{Abesser:2013:DAFX,
@@ -644,6 +674,35 @@
   timestamp = {2016.10.03}
 }
 
+@InProceedings{Mimilakis:2019:MML,
+  author =    {Stylianos Ioannis Mimilakis and Christof Wei{\ss} and Vlora Arifi-M{\"u}ller and Jakob Abe{\ss}er and Meinard M{\"u}ller},
+  title =     {Cross-Version Singing Voice Detection in Opera Recordings: Challenges for Supervised Learning},
+  booktitle = {Proceedings of the 12th International Workshop on Machine Learning and Music ({MML})},
+  year =      {2019},
+  address =   {W{\"u}rzburg, Germany},
+  owner =     {jakobabeer},
+  timestamp = {2019.07.23}
+}
+
+@InProceedings{Nagar:2019:SMC,
+  author =    {Christon-Ragavan Nagar and Jakob Abe{\ss}er and Sascha Grollmisch},
+  title =     {Towards CNN-based Acoustic Modeling of Seventh Chords for Recognition Chord Recognition},
+  booktitle = {Proceedings of the 16th Sound \& Music Computing Conference (SMC)},
+  year =      {2019},
+  address =   {Malaga, Spain},
+  owner =     {jakobabeer},
+  timestamp = {2019.02.07}
+}
+
+@InProceedings{Nowakowsi:2020:CMMR,
+  author =    {Matthias Nowakowsi and Christof Wei{\ss} and Jakob Abe{\ss}er},
+  title =     {Towards Deep Learning Strategies for Transcribing Electroacoustic Music},
+  booktitle = {Proceedings of the 15th International Symposium on Computer Music Multidisciplinary Research (CMMR)},
+  year =      {2020},
+  owner =     {jakobabeer},
+  timestamp = {2020.05.18}
+}
+
 @InProceedings{Schuller:2015:ICASSP,
   author =    {Schuller, Gerald and Abe{\ss}er, Jakob and Kehling, Christian},
   title =     {Parameter Extraction For Bass Guitar Sound Models Including Playing Styles},
@@ -663,6 +722,16 @@
   address =       {London, UK},
   keywords =      {audio effects,music transcription,own},
   mendeley-tags = {audio effects,music transcription,own}
+}
+
+@InProceedings{Taenzer:2019:ISMIR,
+  author =    {Michael Taenzer and Jakob Abe{\ss}er and Stylianos Ioannis Mimilakis and Christof Wei{\ss} and Meinard M{\"u}ller and Hanna Lukashevich},
+  title =     {Investigating CNN-Based Instrument Family Recording for Western Classical Music Recordings},
+  booktitle = {Proceedings of the 20th International Society for Music Information Retrieval Conference (ISMIR)},
+  year =      {2019},
+  address =   {Delft, Netherlands},
+  owner =     {jakobabeer},
+  timestamp = {2019.07.30}
 }
 
 @InProceedings{Voelkel:2010:AM,
@@ -698,16 +767,6 @@
   publisher = {Schott Campus},
   year =      {2017},
   editor =    {Martin Pfleiderer and Klaus Frieler and Jakob Abe{\ss}er and Wolf-Georg Zaddach and Benjamin Burkhart},
-  owner =     {jakobabeer},
-  timestamp = {2018.12.05}
-}
-
-@Proceedings{,
-  owner =     {jakobabeer},
-  timestamp = {2018.12.05}
-}
-
-@Book{,
   owner =     {jakobabeer},
   timestamp = {2018.12.05}
 }

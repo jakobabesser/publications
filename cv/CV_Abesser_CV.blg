@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: CV_Abesser_CV.aux
+The style file: IEEEtranS.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: CV_Abesser_Publications.bib
+-- IEEEtranS.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for normal IEEE work.
+
+Done.
+You've used 10 entries,
+            4566 wiz_defined-function locations,
+            979 strings with 10511 characters,
+and the built_in function-call counts, 10146 in all, are:
+= -- 894
+> -- 323
+< -- 74
++ -- 165
+- -- 80
+* -- 585
+:= -- 1547
+add.period$ -- 23
+call.type$ -- 10
+change.case$ -- 73
+chr.to.int$ -- 165
+cite$ -- 10
+duplicate$ -- 611
+empty$ -- 691
+format.name$ -- 89
+if$ -- 2269
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 109
+newline$ -- 55
+num.names$ -- 27
+pop$ -- 271
+preamble$ -- 1
+purify$ -- 56
+quote$ -- 2
+skip$ -- 723
+stack$ -- 0
+substring$ -- 444
+swap$ -- 520
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 6
+type$ -- 104
+warning$ -- 0
+while$ -- 49
+width$ -- 12
+write$ -- 129
