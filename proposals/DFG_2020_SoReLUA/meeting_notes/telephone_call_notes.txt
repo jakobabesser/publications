@@ -1,0 +1,53 @@
+21.7.2020
+  - SOTA (Sebastian) 1 Seite
+  - Jakob: Kosten Workshops (Jazzomat)
+  - Forscher anschreiben
+  - Einreichung 
+    - 409-05   Interaktive und intelligente Systeme, Bild- und Sprachverarbeitung, Computergraphik und Visualisierung
+
+
+6.7.2020
+
+ - Sebastian 
+   - ruft bei DFG an (Erstantrag? Wo genau einreichen?)
+   - überarbeitet WPs (Themen s.u. einarbeiten)
+ - Jakob
+   - SOTA event detection
+   - SOTA komprimieren, teilweise Details in die Arbeitspakete auslagern
+
+
+----
+
+
+- predictive coding
+  - predictability vs. novely
+  - NN tries to minimize suprise
+  - learn from context (long-term recordings, time context,
+
+- auto-encoder
+  - VQ VAE
+  - DDSP for interpretability, 
+
+- semi-supervised
+  - selfsupervised learning
+        - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YDEPUT
+     -> "ESC-US: an unlabeled dataset of 250 000 environmental recordings (5-second-long clips), suitable for unsupervised pre-training"
+
+  - DDSP
+  
+- continuous learning 
+  - out-of-sample tests
+  - changing background sounds
+
+- domain adaptation
+  -> in WM4 einarbeiten
+
+- taxonomy learning eher als Teil von xAI (validation)
+ -> model analysis package
+
+----
+
+
+ 
+- auf nationaler Ebene -> Workshop
+  -  

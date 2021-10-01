@@ -1,0 +1,101 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[english]{babel}
+
+\usepackage{a4wide}
+\usepackage{natbib}         %% load this, too
+\usepackage{multibib}
+
+
+\newcites{bc}{Book Chapters}
+\newcites{ja}{Journal Publications}
+
+\usepackage[colorlinks=true]{hyperref}
+
+\begin{document}
+
+\begin{center}
+{\Large\bf Publications}\par
+%{\Large\bf Verzeichnis der Schriften}\par
+\medskip
+Dr. Jakob Abe{\ss}er
+\end{center}
+
+%\begin{center}
+%\Large
+%\textbf{Publications}\\
+%\vspace{.5cm}
+%\normalsize
+%Dr. Jakob Abe{\ss}er
+%
+%\end{center}
+
+% Book Chapters
+\nocitebc{Abesser:2012:CMMR}
+\nocitebc{Dittmar:2012:MMP}
+\nocitebc{Brandenburg:2009:BOOK}
+
+% Journal articles
+\nociteja{Abesser:2012:JNMR}
+\nociteja{Frieler:2016:MS}
+\nociteja{Frieler:2016:JF}
+
+
+% others
+\nocite{Balke:2016:ISMIR}
+\nocite{Abesser:2015:ISMIR}
+\nocite{Matz:2015:ISMIR}
+\nocite{Schuller:2015:ICASSP}
+
+\nocite{Abesser:2014:DAFX}
+\nocite{Abesser:2014:AES}
+\nocite{Abesser:2014:CIM}
+\nocite{Eppler:2014:CIM}
+\nocite{Frieler:2014:FMA}
+\nocite{Kruspe:2014:AES}
+\nocite{Kehling:2014:DAFX}
+
+\nocite{Abesser:2013:CMMRa}
+\nocite{Abesser:2013:CMMRb}
+\nocite{Abesser:2013:DAFX}
+\nocite{Grasis:2013:CMMR}
+\nocite{Dittmar:2013:WIAMIS}
+\nocite{Frieler:2013:FMA}
+\nocite{Frieler2013}
+\nocite{Kruspe:2013:AM}
+
+\nocite{Dhandhania:2012:SMC}
+\nocite{Dittmar:ICMPC:2012}
+\nocite{Kramer:2012:ICASSP}
+\nocite{Krasser:2012:AM}
+
+\nocite{Abesser:2011:AES}
+\nocite{Abesser:2011:ISMIR}
+\nocite{Abesser:2011:ICASPP}
+\nocite{Grossmann:2011:CSIST}
+\nocite{Kruspe:2011:AM}
+\nocite{Kruspe:2011:AES}
+
+\nocite{Abesser:2010:ISMIR}
+\nocite{Abesser:2010:CMMR}
+\nocite{Abesser:2010:ICASSP}
+\nocite{Stein:2010:AES}
+\nocite{Stein2010}
+\nocite{Voelkel:2010:AM}
+\nocite{Dittmar:2010:CMMR}
+
+\nocite{Abesser:2009:ISMIR}
+\nocite{Lukashevich:2009:ISMIR}
+
+\nocite{Abesser:2008:DAGA}
+\nocite{Abesser:2008:AM}
+
+\footnotesize
+\bibliographystylebc{unsrt}
+\bibliographybc{CV_Abesser_Publications}
+\bibliographystyleja{unsrt}
+\bibliographyja{CV_Abesser_Publications}
+
+\renewcommand{\refname}{Conference Publications}
+\bibliographystyle{unsrt}
+\bibliography{CV_Abesser_Publications}
+\end{document}

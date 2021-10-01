@@ -1,0 +1,30 @@
+Herausforderungen und Anwendungszenarien für KI-basiertes maschinelles Hören
+
+In diesem Vortrag werden zuerst grundlegende Verfahren zur automatischen Erkennung und Klassifikation von Klangereignissen dargestellt. Ein Schwerpunkt dabei liegt auf den grundlegenden Unterschiedenen zwischen Audio- und Bildverarbeitung und den daraus resultierenden Herausforderungen für eine KI-gestützte Audioanalyse.
+Abschließend werden aktuelle Anwendungsszenarien wie Lärmüberwachung im städtischen Umfeld, Verkehrsüberwachung und End-of-line Testing in industriellen Fabrikationsprozessen dargestellt.
+
+
+- KI-basierte Klangerkennung
+  - Grundlagen: Audiosignal > Spektrograme
+    - Netzwerkarchitekturen: CRNN
+  - Herausforderungen
+    - audio vs. computer vision
+      - Überlagerung von Klängen (vorder- & hintergründig)
+        - Klänge sind "transparent"
+
+    - Microphone mismatch, domain adaptation
+      -> Ziel: robuste & generalisierende Verfahren
+    - Vielfalt von klängen
+    - Trainings-daten: Menge, Mehrdeutigkeit bei Annotationen
+      - Imageset vs. Audioset & FreesoundFSK
+
+  - Anwendungszenarien
+  - Lärm-Monitoring im städtischem Umfeld
+  - End-of-line testing IMA (?)
+  -
+
+
+
+  15 min
+
+https://towardsdatascience.com/whats-wrong-with-spectrograms-and-cnns-for-audio-processing-311377d7ccd

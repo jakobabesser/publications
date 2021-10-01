@@ -1,0 +1,146 @@
+TODO DFG Forms
+
+Deutscher Titel? - Klangerkennung durch Hören, Verstehen und Anpassen (SoReLUA)? -> finde ich gut
+
+Keywords: Acoustic Scene Understanding, Audio Event Detection, Machine Learning, Machine Listening
+
+deutsche Keywords: Akustische Szenenverständnis, akustische Ereignisdetektion, Maschinelles Lernen ???
+
+Hiwi-Kosten
+
+TODO
+
+KW46
+  - J: Summary überarbeiten (warum interessant, Abgrenzung CV, Transferpotential) - 3000 Zeichen max. (aktuell noch 229 DE / 305 EN)
+  - 
+KW47
+  - SOTA kürzen (data synthesis 
+  - Proof-read (J, S)
+
+KW48
+  - Proof-read David Johnson
+
+ - sonstige Koste: Vergütung von versuchspersonen???
+
+KW50 
+  - final revision (S)
+
+KW51
+  - final revision (J)
+
+TODO 
+  - add "previous work" -> 1-2 sentences after each section in 1.1!
+
+  - add label & refs
+  - manual anchor text "(WI1)"
+  - Fragebogen (diversity)
+  - evtl. christon 
+  - Dokumentenliste
+  - 9pt Lit-ref
+   
+ELAN > Einzelprogram > Sachbeihilfe
+  - beide Antragssteller müssen in ELAN registriert sein
+  - nur PDF Dateien hochladen
+  - Titel
+  - Zusammenfassung deutsch & englisch
+
+10.11.2020
+  - einzureichende Unterlagen -> SUBMISSION_DOCUMENTS
+    - https://www.dfg.de/foerderung/programme/einzelfoerderung/sachbeihilfe/formulare_merkblaetter/index.jsp > Leitfaden für die Antragsstellung
+      - https://www.dfg.de/formulare/54_01/54_01_en.pdf
+         (A) Proposal data & obligations
+           - TODO check ELAN portal for required fields
+         (B) Project description (main document, max 25 pages)
+         (C) Appendices
+            - each applicant's academic curriculum vitae incl. a list of up to ten of the most important publications (need not be related to the project proposal!)
+             -> GUIDELINES (https://www.dfg.de/formulare/1_91/1_91_en.pdf)
+               - only published work
+               - structured 
+                 - articles & book publications
+                 - other publications (peer-reviewed / non-peer reviewed)
+               - possible: (unlimited) number of patents (divided by pending / issued)
+         (D) PDF versionen der im Antrag genannten 10 Publikationen (so haben wir es bei ISAD gemacht)
+
+3.11.
+  - Jakob
+    - AED -> SED
+    - rewrote SOTA (annotation->WJ1)
+
+  - TODO Sebastian
+   - references
+   - SOTA continuous learning (?)
+
+15.10
+  - TODO Sebastian
+    - WMs
+    - preliminary work: Publikationen
+    - research group 
+  - TODO Jakob
+    - DONE Micro equipment
+    - DONE ausländische Forscher
+    - DONE Staff
+    - 
+
+2.10
+  - change font size in bibliography sections to 9 (https://www.dfg.de/formulare/54_01/54_01_en.pdf, p.3)
+
+30.9.
+  -DONE  DFG Struktur checken 
+    - https://www.dfg.de/formulare/54_01/54_01_en.pdf
+  - Jakob: - WJ1 , WJ2, staff, ausländische Forscher
+  - Sebastian: - WMs, preliminary work
+  - Reisekosten, Hardware (GPUs)
+  - 
+
+22.9.
+  - TODOs Jakob
+    - DONE SOTA kürzen
+    - DONE APs Ilmenau ausformulieren
+    - DONE Workshop (national, Machine Listening)
+    - funding -> GPU server (20k)
+              -> Microphope equipment
+    - final proof read by David Johnson?
+
+
+20.7. 
+  - check Zhang:2020:ASC:IEEE_SPL
+   -> end-to-end 3D CNN
+   -> "capturing temporal relations from semantic neighbors ofdifferent receptive field" -> maybe for anomaly detection
+
+28.6.
+  - go through current comments: what can be resolved by now?
+  - end-to-end-learning for AED ?!
+  - systematische suche nach AED papers bei IEEE & DCASE für die letzten beiden Jahre (reicht)
+
+TBD
+  - replace "audio event detection" by "sound event detection" (SED)
+  - Workshops organisieren?
+
+9.6. 
+  - mehrere Latex files
+  - Gliederung übernehmen
+  - https://www.dfg.de/formulare/54_01/54_01_de.pdf
+ - 2 Referenz-Sektionen erstellen
+  - own references + allgemein
+
+
+5.6.
+ - SOTA Acoustic Event Detection
+   - Startpunkt: 
+     - https://link.springer.com/content/pdf/10.1007/s00034-019-01094-1.pdf
+
+
+
+
+
+
+RELATED PROJECTS
+  - DFG Ha 3455/15-1 within the research unit FOR 2457 ”Acoustic Sensor Networks”.
+  - https://www.surrey.ac.uk/news/fellowship-advance-sound-new-frontiers-using-ai
+  - MeMAD EU project https://github.com/MeMAD-project/AudioTagger
+  - company Audio Analytics
+  - European Unions H2020 Framework Programme through ERC Grant Agreement 637422 EVERYSOUND
+
+LESEN
+
+https://staceyoniot-com.cdn.ampproject.org/c/s/staceyoniot.com/we-gave-computers-vision-now-we-want-them-to-hear/amp/

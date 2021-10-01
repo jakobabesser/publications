@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{Abesser:2012:CMMR}
+Jakob Abe{\ss}er.
+\newblock Automatic string detection for bass guitar and electric guitar.
+\newblock In Mitsuko Aramaki, Mathieu Barthet, Richard Kronland-Martinet, and
+  S{\o}lvi Ystad, editors, {\em From Sounds to Music and Emotions}, volume 7900
+  of {\em Lecture Notes in Computer Science}, pages 333--352. Springer, London,
+  UK, 2012.
+
+\bibitem{Dittmar:2012:MMP}
+Christian Dittmar, Estefan{\'i}a Cano, Jakob Abe{\ss}er, and Sascha Grollmisch.
+\newblock {Music Information Retrieval Meets Music Education}.
+\newblock In Meinard M{\"u}ller, Masataka Goto, and Markus Schedl, editors,
+  {\em Multimodal Music Processing}, volume~3 of {\em Dagstuhl Follow-Ups},
+  pages 95--120. Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik, Dagstuhl,
+  Germany, 2012.
+
+\bibitem{Brandenburg:2009:BOOK}
+Karlheinz Brandenburg, Christian Dittmar, Matthias Gruhne, Jakob Abe{\ss}er,
+  Hanna Lukashevich, Peter Dunker, Daniel G{\"a}rtner, Kay Wolter, Stefanie
+  Nowak, and Holger Gro{\ss}mann.
+\newblock Music search and recommendation.
+\newblock In Borko Furth, editor, {\em Handbook of multimedia for digital
+  entertainment and arts}, pages 349--384. Springer, 2009.
+
+\end{thebibliography}

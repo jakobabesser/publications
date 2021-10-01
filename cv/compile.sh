@@ -1,6 +1,0 @@
-pdflatex CV_Abesser_Publications
-bibtex CV_Abesser_Publications
-bibtex bc
-bibtex ja
-pdflatex CV_Abesser_Publications
-pdflatex CV_Abesser_Publications

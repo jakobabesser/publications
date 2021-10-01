@@ -1,0 +1,74 @@
+@inproceedings{Johnson2020:isa_normalization,
+abstract = {The field of Industrial Sound Analysis (ISA) aims to automatically identify faults in production machinery or manufactured goods by analyzing audio signals. Publications in this field have shown that the surface condition of metal balls and different types of bulk materials (screws, nuts, etc.) sliding down a tube can be classified with a high accuracy using audio signals and deep neural networks. However, these systems suffer from domain shift, or dataset bias, due to minor changes in the recording setup which may easily happen in real-world production lines. This paper aims at finding methods to increase robustness of existing detection systems to domain shift, ideally without the need to record new data or retrain the models. Through five experiments, we implement a convolutional neural network (CNN) for two publicly available ISA datasets and evaluate transfer learning, data normalization and data augmentation as approaches to deal with domain shift. Our results show that while supervised methods with additional labeled data are the best approach, an unsupervised method that implements data augmentation with adaptive normalization is able to improve the performance by a large margin without the need of retraining neural networks.},
+address = {Amsterdam, The Netherlands},
+author = {Johnson, David and Grollmisch, Sascha},
+booktitle = {European Signal Processing Conference (EUSIPCO)},
+file = {:C$\backslash$:/Users/goh/Desktop/eusipco{\_}2020{\_}normalization{\_}for{\_}isa.pdf:pdf},
+title = {{Techniques Improving the Robustness of Deep Learning Models for Industrial Sound Analysis}},
+year = {2020}
+}
+
+
+@inproceedings{Grollmisch2020:embeddings,
+abstract = {In the context of deep learning, the availability of large amounts of training data can play a critical role in a model's performance. Recently, several models for audio classification have been pre-trained in a supervised or self-supervised fashion on large datasets to learn complex feature representations, so- called embeddings. These embeddings can then be extracted from smaller datasets and used to train subsequent classifiers. In the field of audio event detection (AED) for example, classifiers using these features have achieved high accuracy without the need of additional domain knowledge. This paper evaluates three state-of-the-art embeddings on six audio classification tasks from the fields of music information retrieval and industrial sound analysis. The embeddings are systematically evaluated by analyzing the influence on classification accuracy of classifier architecture, fusion methods for file-wise predictions, amount of training data, and initial training domain of the embeddings. To better understand the impact of the pre-training step, results are also compared with those acquired with models trained from scratch. On average, the OpenL3 embeddings performed best with a linear SVM classifier. For a reduced amount of training examples, OpenL3 outperforms the initial baseline.},
+address = {Amsterdam, The Netherlands},
+author = {Grollmisch, Sascha and Cano, Estefan{\'{i}}a and Kehling, Christian and Taenzer, Michael},
+booktitle = {European Signal Processing Conference (EUSIPCO)},
+file = {:C$\backslash$:/Users/goh/Desktop/eusipco{\_}2020{\_}embeddings.pdf:pdf},
+title = {{Analyzing the Potential of Pre-Trained Embeddings for Audio Classification Tasks}},
+year = {2020}
+}
+@inproceedings{Grollmisch:2019:EnsembleSize:CMMR,
+address = {Marseille, France},
+author = {Grollmisch, Sascha and Cano, Estefan{\'{i}}a and Mora-{\'{A}}ngel, Fernando and Gil, Gustavo L{\'{o}}pez},
+booktitle = {International Symposium of Computer Music Multidisciplinary Research (CMMR)},
+file = {:I$\backslash$:/IMA/goh/Documents/conferences/cmmr2019/ACMus{\_}CMMR{\_}2019{\_}Paper.pdf:pdf},
+keywords = {abt-md,idmt},
+mendeley-tags = {abt-md,idmt},
+title = {{Ensemble size classification in Colombian Andean string music recordings}},
+year = {2019}
+}
+@inproceedings{grollmisch2020:isa_visualization,
+abstract = {Recent research has shown acoustic quality control using audio signal processing and neural networks to be a viable solution for detecting product faults in noisy factory environments. For industrial partners, it is important to be able to explain the network's decision making, however, there is limited research on this area in the field of industrial sound analysis (ISA). In this work, we visualize learned patterns of an existing network to gain insights about the decision making process. We show that unwanted biases can be discovered, and thus avoided, using this technique when validating acoustic quality control systems.},
+address = {N{\"{u}}rnberg, Germany},
+author = {Grollmisch, Sascha and Johnson, David and Liebetrau, Judith},
+booktitle = {Sensor and Measurement Science International (SMSI)},
+file = {:C$\backslash$:/Users/goh/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Grollmisch, Johnson, Liebetrau - 2020 - Visualizing Neural Network Decisions for Industrial Sound Analysis.pdf:pdf},
+keywords = {acoustic quality control,background,classification,ima,industrial sound analysis,isa,layer-wise relevance propagation,machine learning,motivation and objective,neural networks,neural networks have improved,own,visualization},
+mendeley-tags = {ima,isa,own,visualization},
+title = {{Visualizing Neural Network Decisions for Industrial Sound Analysis}},
+year = {2020}
+}
+@inproceedings{Grollmisch2020:iaeo3,
+abstract = {In this technical report, we present our system for task 2 of the IEEE AASP Challenge on Detection and Classification of Acoustic Scenes and Events (DCASE2020 Challenge): Unsupervised Detec- tion of Anomalous Sounds for Machine Condition Monitoring. The focus of this task is to detect anomalous industrial machine sounds using an acoustic quality control system, which is only trained with sound samples from the normal (machine) condition. The dataset covers a variety of machines ranging from stable sound sources such as car engines, to transient sounds such as opening and closing valves. Our proposed method combines pre-trained OpenL3 embeddings with the reconstruction error of an interpolation autoen- coder using a gaussian mixture model as the final predictor. The optimized model achieved 88.5{\%} AUC and 76.8{\%} pAUC on av- erage over all machines and types provided with the development dataset, and outperformed the published baseline by 14.9{\%} AUC and 17.2{\%} pAUC.},
+author = {Grollmisch, Sascha and Johnson, David and Abe{\ss}er, Jakob and Lukashevich, Hanna},
+booktitle = {Detection and Classification of Acoustic Scenes Events},
+file = {:C$\backslash$:/Users/goh/Desktop/dcase{\_}submission/Grollmisch{\_}IDMT{\_}task2{\_}technical{\_}report.pdf:pdf},
+keywords = {anomaly detection,isa,own},
+mendeley-tags = {anomaly detection,isa,own},
+title = {{IAEO3 - COMBINING OPENL3 EMBEDDINGS AND INTERPOLATION AUTOENCODER FOR ANOMALOUS SOUND DETECTION}},
+year = {2020}
+}
+
+
+@inproceedings{Cramer2019:openl3,
+address = {Brighton, United Kingdom},
+author = {Cramer, Jason and Wu, Ho-hsiang and Salamon, Justin and Bello, Juan Pablo},
+booktitle = {IEEE ICASSP},
+xdoi = {10.1109/ICASSP.2019.8682475},
+isbn = {978-1-4799-8131-1},
+pages = {3852--3856},
+title = {{Look, Listen, and Learn More: Design Choices for Deep Audio Embeddings}},
+year = {2019}
+}
+
+@inproceedings{Kumar2018:embedding,
+author = {Kumar, Anurag and Khadkevich, Maksim and Fugen, Christian},
+booktitle = {IEEE ICASSP},
+isbn = {978-1-5386-4658-8},
+issn = {15206149},
+pages = {326--330},
+title = {{Knowledge Transfer from Weakly Labeled Audio Using Convolutional Neural Network for Sound Events and Scenes}},
+year = {2018}
+}
+

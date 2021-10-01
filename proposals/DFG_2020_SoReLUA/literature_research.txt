@@ -1,0 +1,12 @@
+Acoustic Event Detection (2018-2020)
+
+- DCASE (best 5 performing systems / task)
+  - 2018 - task 4 - Large-scale weakly labeled semi-supervised sound event detection in domestic environments
+    http://dcase.community/challenge2018/task-large-scale-weakly-labeled-semi-supervised-sound-event-detection-results
+
+
+- IEEE xplore
+
+
+
+- google scholar
