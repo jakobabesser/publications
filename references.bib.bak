@@ -327,6 +327,15 @@
   journal =        {Electronics}
 }
 
+@InProceedings{Abesser:2022:ICASSP,
+  author =    {Jakob Abe{\ss}er and Meinard M{\"u}ller},
+  title =     {Towards Audio Domain Adaptation for Acoustic Scene Classification using Disentanglement Learning},
+  booktitle = {ICASSP},
+  year =      {2022},
+  owner =     {jakobabeer},
+  timestamp = {2021.10.08}
+}
+
 @InProceedings{Abesser:2017:DCASE,
   author =    {Abe{\ss}er, Jakob and Mimilakis, Stylianos Ioannis and Gr{\"a}fe, Robert and Lukashevich, Hanna},
   title =     {Acoustic Scene Classification by Combining Autoencoder-Based Dimensionality Reduction and Convolutional Neural Networks},
@@ -515,6 +524,17 @@
 
   Owner                    = {jakobabeer},
   Timestamp                = {2014.03.15}
+}
+
+@InProceedings{Draghici:2020:AM,
+  author =    {Alexandra Draghici and Jakob Abe{\ss}er and Hanna Lukashevich},
+  title =     {A study on spoken language identification using deep neural networks},
+  booktitle = {Proceedings of the 15th International Conference on Audio Mostly},
+  year =      {2020},
+  location =  {Graz, Austria},
+  pages =     {253-256},
+  owner =     {jakobabeer},
+  timestamp = {2021.10.08}
 }
 
 @InProceedings{Eppler:2014:CIM,
@@ -793,6 +813,15 @@
   timestamp = {2020.05.18}
 }
 
+@InProceedings{Ribecky:2022:ICASSP,
+  author =    {Sebastian Ribecky and Jakob Abe{\ss}er and Hanna Lukashevich},
+  title =     {Multi-Input Architecture and Disentangled Representation Learning for Multi-Dimensional Modeling of Music Similarity},
+  booktitle = {submitted to ICASSP},
+  year =      {2022},
+  owner =     {jakobabeer},
+  timestamp = {2021.10.08}
+}
+
 @InProceedings{Schuller:2015:ICASSP,
   author =    {Schuller, Gerald and Abe{\ss}er, Jakob and Kehling, Christian},
   title =     {Parameter Extraction For Bass Guitar Sound Models Including Playing Styles},
@@ -822,6 +851,16 @@
   address =   {Delft, Netherlands},
   owner =     {jakobabeer},
   timestamp = {2019.07.30}
+}
+
+@InProceedings{Taenzer:2021:CMMR,
+  author =    {Michael Taenzer and Stylianos I. Mimilakis and Jakob Abe{\ss}er},
+  title =     {Deep Learning-Based Music Instrument Recognition: Exploring Learned Feature Representation},
+  booktitle = {Proceedings of the International Symposium on Computer Music Multidisciplinary Research (CMMR)},
+  year =      {2021},
+  location =  {Tokyo, Japan},
+  owner =     {jakobabeer},
+  timestamp = {2021.10.01}
 }
 
 @Article{Taenzer:2021:ELECTRONICS,
