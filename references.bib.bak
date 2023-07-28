@@ -205,6 +205,15 @@
   address =   {Barcelona, Spain}
 }
 
+@Article{Abesser_2023_Embeddings_TASLP,
+  author =       {Jakob Abe{\ss}er and Sascha Grollmisch and Meinard M{\"u}ller},
+  title =        {How Robust are Audio Embeddings for Polyphonic Sound Event Tagging?},
+  journaltitle = {submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  year =         {2023},
+  owner =        {jakobabeer},
+  timestamp =    {2023.05.12}
+}
+
 @InProceedings{Abesser:2013:CMMRb,
   Title                    = {{Automatic Quality Assessment of Vocal and Instrumental Performances of Ninth-grade and Tenth-grade Pupils}},
   Author                   = {Abe{\ss}er, Jakob and Hasselhorn, Johannes and Dittmar, Christian and Lehmann, Andreas and Grollmisch, Sascha},
@@ -388,6 +397,15 @@
   doi =      {10.1109/TASLP.2017.2702384},
   issn =     {2329-9290},
   keywords = {acoustic signal processing;audio signal processing;music;signal classification;support vector machines;instrument-centered music transcription;solo bass guitar recordings;note parameters pitch estimation;note parameters onset estimation;note parameters duration estimation;fundamental frequency contours tracking;magnitude spectrogram;note spectral envelope;timbre-related audio features;support vector machine classifier;bass transcription;polyphonic music;melody transcription algorithm;monophonic music;Instruments;Spectrogram;Estimation;Time-frequency analysis;Music;Harmonic analysis;Algorithm design and analysis;Bass transcription;electric bass guitar;fretboard position;playing technique estimation;string detection}
+}
+
+@Article{Abesser_2023_SoundPolyphony_JAES,
+  author =       {Jakob Abe{\ss}er and Asad Ullah and Sebastian Ziegler and Sascha Grollmisch},
+  title =        {Human and Machine Performance in Counting Sound Classes in Single-Channel Soundscapes},
+  journaltitle = {accepted for publication in the Journal of the Audio Engineering Society (AES)},
+  year =         {2023},
+  owner =        {jakobabeer},
+  timestamp =    {2023.05.12}
 }
 
 @InProceedings{Abesser:2022:DAGA_1,
@@ -715,6 +733,16 @@
   timestamp = {2022.11.03}
 }
 
+@InProceedings{Grollmisch_2023_UncertaintySemiSupervised_EUSIPCO,
+  author =    {Sascha Grollmisch and Estefan{\'i}a Cano and Hanna Lukashevich and Jakob Abe{\ss}er},
+  title =     {Uncertainty in Semi-supervised Audio Classification - A Novel Extension for FixMatch},
+  booktitle = {Proceedings of the European Signal Processing Conference (EUSIPCO)},
+  year =      {2023},
+  address =   {Helsinki, Finland},
+  owner =     {jakobabeer},
+  timestamp = {2023.06.21}
+}
+
 @InProceedings{Johnson:2020:FL:EUSIPCO,
   author =        {David S. Johnson and Wolfgang Lorenz and Michael Taenzer and Stylianos Mimilakis and Sascha Grollmisch and Jakob Abe{\ss}er and Hanna Lukashevich},
   title =         {{DESED-FL} and {URBAN-FL}: Federated Learning Datasets for Sound Event Detection},
@@ -830,6 +858,14 @@
   year =      {2023},
   owner =     {jakobabeer},
   timestamp = {2022.11.03}
+}
+
+@InProceedings{,
+  author =    {Hanna Lukashevich and Sascha Grollmisch and Jakob Abe{\ss}er},
+  title =     {Temperature scaling for reliable uncertainty estimation: Application to automatic music genre classification},
+  booktitle = {submitted to the},
+  owner =     {jakobabeer},
+  timestamp = {2023.06.21}
 }
 
 @InProceedings{Matz:2015:ISMIR,
