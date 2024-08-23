@@ -205,13 +205,24 @@
   address =   {Barcelona, Spain}
 }
 
+@InProceedings{Abesser_2024_DAGA,
+  author =    {Jakob Abe{\ss}er and Sascha Grollmisch and Joachim B{\"o}s},
+  title =     {Aktuelle Forschungsschwerpunkte in der akustischen Ereignisdetektion},
+  booktitle = {Proceedings of the 50. Jahrestagung f{\"u}r Akustik (DAGA)},
+  year =      {2024},
+  owner =     {jakobabeer},
+  timestamp = {2024.04.08}
+}
+
 @Article{Abesser_2023_Embeddings_TASLP,
-  author =       {Jakob Abe{\ss}er and Sascha Grollmisch and Meinard M{\"u}ller},
+  author =       {Abe{\ss}er, Jakob and Grollmisch, Sascha and M{\"u}ller, Meinard},
   title =        {How Robust are Audio Embeddings for Polyphonic Sound Event Tagging?},
-  journaltitle = {submitted to IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  journaltitle = {{IEEE/ACM} Transactions on Audio, Speech, and Language Processing},
   year =         {2023},
-  owner =        {jakobabeer},
-  timestamp =    {2023.05.12}
+  volume =       {31},
+  pages =        {2658-2667},
+  doi =          {10.1109/TASLP.2023.3293032},
+  journal =      {IEEE/ACM Transactions on Audio, Speech, and Language Processing}
 }
 
 @InProceedings{Abesser:2013:CMMRb,
@@ -402,8 +413,13 @@
 @Article{Abesser_2023_SoundPolyphony_JAES,
   author =       {Jakob Abe{\ss}er and Asad Ullah and Sebastian Ziegler and Sascha Grollmisch},
   title =        {Human and Machine Performance in Counting Sound Classes in Single-Channel Soundscapes},
-  journaltitle = {accepted for publication in the Journal of the Audio Engineering Society (AES)},
+  journaltitle = {Journal of the Audio Engineering Society ({AES})},
   year =         {2023},
+  volume =       {71},
+  number =       {12},
+  pages =        {860--872},
+  url =          {https://www.aes.org/e-lib/browse.cfm?elib=22348},
+  journal =      {Journal of the Audio Engineering Society ({AES})},
   owner =        {jakobabeer},
   timestamp =    {2023.05.12}
 }
@@ -415,6 +431,16 @@
   year =      {2022},
   owner =     {jakobabeer},
   timestamp = {2021.11.01}
+}
+
+@InProceedings{Apostolidis_2024_MAD,
+  author =    {Konstantinos Apostolidis and Jakob Abe{\ss}er and Luca Cuccovillo and Vasileios Mezaris},
+  title =     {Visual and audio scene classification for detecting discrepancies in video: a baseline method and experimental protocol},
+  booktitle = {Proceedings of the ACM International Workshop on Multimedia AI against Disinformation (MAD)},
+  year =      {2024},
+  address =   {Thessaloniki, Greece},
+  owner =     {jakobabeer},
+  timestamp = {2024.04.08}
 }
 
 @InProceedings{Boensel:2016:AES,
@@ -462,6 +488,25 @@
   doi =          {http://doi.org/10.5334/tismir.131},
   journal =      {Transactions of the International Society for Music Information Retrieval ({TISMIR})},
   keywords =     {idmt_smt}
+}
+
+@InProceedings{Bidarouni_2023_I2S,
+  author =    {Amir Latifi Bidarouni and Jakob Abe{\ss}er},
+  title =     {Unsupervised Feature-Space Domain Adaptation applied for Audio Classification},
+  booktitle = {Proceedings of the 4th International Symposium on the Internet of Sounds},
+  year =      {2023},
+  owner =     {jakobabeer},
+  timestamp = {2024.04.08}
+}
+
+@InProceedings{Bidarouni_2024_EUSIPCO,
+  author =    {Amir Latifi Bidarouni and Jakob Abe{\ss}er},
+  title =     {Towards Domain Shift in Location-Mismatch Scenarios for Bird Activity Detection},
+  booktitle = {Proceedings of the Euopean Signal Processing Conference (EUSIPCO)},
+  year =      {2024},
+  address =   {Lyon, France},
+  owner =     {jakobabeer},
+  timestamp = {2024.04.08}
 }
 
 @InProceedings{Bittner:2023:DAGA,
@@ -714,6 +759,15 @@
   mendeley-tags = {own}
 }
 
+@InProceedings{Grollmisch_2024_DAGA,
+  author =    {Sascha Grollmisch and Jakob Abe{\ss}er and Joachim B{\"o}s},
+  title =     {Selbstüberwachtes Vortraining zur Verbesserung automatischer Audioklassifikationsalgorithmen},
+  booktitle = {Proceedings of the 50. Jahrestagung f{\"u}r Akustik (DAGA)},
+  year =      {2024},
+  owner =     {jakobabeer},
+  timestamp = {2024.04.08}
+}
+
 @InProceedings{Grollmisch:2019:EUSIPCO,
   author =    {Sascha Grollmisch and Jakob Abe{\ss}er and Judith Liebetrau and Hanna Lukashevich},
   title =     {Sounding Industry: Challenges and Datasets for Industrial Sound Analysis},
@@ -851,6 +905,16 @@
   Abstract                 = {In this publication we describe a novel two-dimensional approach for automatic music genre classification. Although the subject poses a well studied task in Music Information Retrieval, some fundamental issues of genre classification have not been covered so far. Especially many modern genres are influenced by manifold musical styles. Most of all, this holds true for the broad category “World Music”, which comprises many different regional styles and a mutual mix up thereof. A common approach to tackle this issue in manual categorization is to assign multiple genre labels to a single recording. However, for commonly used automatic classification algorithms, multi- labeling poses a problem due to its ambiguities. Thus, we propose to break down multi-label genre annotations into single-label annotations within given time segments and musical domains. A corresponding multi-stage evaluation based on a representative set of items from a global music taxonomy is performed and discussed accordingly. Therefore, we conduct 3 different experiments that cover multi-labeling, multi-labeling with time segmentation and the proposed multi-domain labeling.}
 }
 
+@InProceedings{Lukashevich_2023_ECMLPKDD,
+  author =    {Hanna Lukashevich and Sascha Grollmisch and Jakob Abe{\ss}er},
+  title =     {Temperature scaling for reliable uncertainty estimation: Application to automatic music genre classification},
+  booktitle = {Proceedings of the Uncertainty meets Explainability Workshop at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)},
+  year =      {2023},
+  location =  {Torino, Italy},
+  owner =     {jakobabeer},
+  timestamp = {2023.09.01}
+}
+
 @InProceedings{Lukashevich:2023:DAGA,
   author =    {Hanna Lukashevich and Sascha Grollmisch and Jakob Abe{\ss}er},
   title =     {Quantifying Uncertainty in Music Genre Classification},
@@ -860,12 +924,14 @@
   timestamp = {2022.11.03}
 }
 
-@InProceedings{,
-  author =    {Hanna Lukashevich and Sascha Grollmisch and Jakob Abe{\ss}er},
-  title =     {Temperature scaling for reliable uncertainty estimation: Application to automatic music genre classification},
-  booktitle = {submitted to the},
+@InProceedings{Lukashevich_2023_AM,
+  author =    {Hanna Lukashevich and Sascha Grollmisch and Jakob Abe{\ss}er and Sebastian Stober and Joachim B{\"o}s},
+  title =     {How reliable are posterior class probabilties in automatic music classification?},
+  booktitle = {Proceedings of the Audio Mostly conference},
+  year =      {2023},
+  location =  {Edinburgh, Scotland},
   owner =     {jakobabeer},
-  timestamp = {2023.06.21}
+  timestamp = {2023.09.01}
 }
 
 @InProceedings{Matz:2015:ISMIR,
@@ -877,6 +943,15 @@
   address =   {M{\'a}laga, Spain},
   owner =     {jakobabeer},
   timestamp = {2016.01.26}
+}
+
+@InProceedings{Meija_2024_DAGA,
+  author =    {Juan Manuel Rodr{\'i}guez Mej{\'i}a and Jakob Abe{\ss}er and Luca Cuccovillo and Patrick Aichroth},
+  title =     {Siren Sounds as Acoustic Landmarks for Content Verification},
+  booktitle = {Proceedings of the 50. Jahrestagung f{\"u}r Akustik (DAGA)},
+  year =      {2024},
+  owner =     {jakobabeer},
+  timestamp = {2024.04.08}
 }
 
 @InProceedings{Mimilakis:2016:AES,
